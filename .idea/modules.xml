@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CareerHigh.iml" filepath="$PROJECT_DIR$/CareerHigh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CareerHigh-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/CareerHigh-Android.iml" group="CareerHigh-Android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CareerHigh-Android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CareerHigh-Android-app.iml" group="CareerHigh-Android/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CareerHigh-App.iml" filepath="$PROJECT_DIR$/.idea/modules/CareerHigh-App.iml" group="CareerHigh-App" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CareerHigh-App-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CareerHigh-App-app.iml" group="CareerHigh-App/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />

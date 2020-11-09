@@ -30,7 +30,8 @@ public class MainActivity extends ActionBarActivity {
         final ProgressDialog progressBar = new ProgressDialog(MainActivity.this);
         progressBar.setMessage("Please wait...");;
 
-        mywebview.loadUrl("http://198.144.176.142/BISCTA_login");
+       // mywebview.loadUrl("http://198.144.176.142/BISCTA_login");
+        mywebview.loadUrl("https:/facebook.com");
         mywebview.setWebViewClient(new WebViewClient(){
             public boolean shouldOverrideUrlLoading(WebView view, String url) {
                 view.loadUrl(url);
